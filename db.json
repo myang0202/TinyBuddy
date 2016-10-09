@@ -1,0 +1,28 @@
+{
+  "locations": [
+    {
+      "title": "Parking place",
+      "longitude": -120.617551833345,
+      "latitude": 46.707554058907,
+      "id": 1
+    },
+    {
+      "title": "Curtis parking",
+      "longitude": -113.02504245984,
+      "latitude": 40.2348106944016,
+      "id": 2
+    },
+    {
+      "title": "new spot",
+      "longitude": -73.4546700779273,
+      "latitude": 51.6089226188028,
+      "id": 3
+    },
+    {
+      "title": "another spot",
+      "longitude": 122.406417,
+      "latitude": 47.6,
+      "id": 4
+    }
+  ]
+}
